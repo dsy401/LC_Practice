@@ -13,3 +13,17 @@
 /Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net7.0/LeetcodeAlgo.pdb
 /Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net7.0/LeetcodeAlgo.genruntimeconfig.cache
 /Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net7.0/ref/LeetcodeAlgo.dll
+/Users/shunyuandeng/git/LC_Practice/bin/Debug/net7.0/LeetcodeAlgo
+/Users/shunyuandeng/git/LC_Practice/bin/Debug/net7.0/LeetcodeAlgo.deps.json
+/Users/shunyuandeng/git/LC_Practice/bin/Debug/net7.0/LeetcodeAlgo.runtimeconfig.json
+/Users/shunyuandeng/git/LC_Practice/bin/Debug/net7.0/LeetcodeAlgo.dll
+/Users/shunyuandeng/git/LC_Practice/bin/Debug/net7.0/LeetcodeAlgo.pdb
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/LeetcodeAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/LeetcodeAlgo.AssemblyInfoInputs.cache
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/LeetcodeAlgo.AssemblyInfo.cs
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/LeetcodeAlgo.csproj.CoreCompileInputs.cache
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/LeetcodeAlgo.dll
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/refint/LeetcodeAlgo.dll
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/LeetcodeAlgo.pdb
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/LeetcodeAlgo.genruntimeconfig.cache
+/Users/shunyuandeng/git/LC_Practice/obj/Debug/net7.0/ref/LeetcodeAlgo.dll
