@@ -1,0 +1,5 @@
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/netcoreapp3.1/LeetcodeAlgo.csproj.AssemblyReference.cache
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/netcoreapp3.1/LeetcodeAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/netcoreapp3.1/LeetcodeAlgo.AssemblyInfoInputs.cache
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/netcoreapp3.1/LeetcodeAlgo.AssemblyInfo.cs
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/netcoreapp3.1/LeetcodeAlgo.csproj.CoreCompileInputs.cache

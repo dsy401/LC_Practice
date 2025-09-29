@@ -1,0 +1,15 @@
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/LeetcodeAlgo.csproj.AssemblyReference.cache
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/LeetcodeAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/LeetcodeAlgo.AssemblyInfoInputs.cache
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/LeetcodeAlgo.AssemblyInfo.cs
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/LeetcodeAlgo.csproj.CoreCompileInputs.cache
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/bin/Debug/net6.0/LeetcodeAlgo
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/bin/Debug/net6.0/LeetcodeAlgo.deps.json
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/bin/Debug/net6.0/LeetcodeAlgo.runtimeconfig.json
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/bin/Debug/net6.0/LeetcodeAlgo.dll
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/bin/Debug/net6.0/LeetcodeAlgo.pdb
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/LeetcodeAlgo.dll
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/refint/LeetcodeAlgo.dll
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/LeetcodeAlgo.pdb
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/LeetcodeAlgo.genruntimeconfig.cache
+/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/Debug/net6.0/ref/LeetcodeAlgo.dll
