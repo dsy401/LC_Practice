@@ -8,19 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/shunyuandeng/.nuget/packages/": {}
+    "/Users/oliver/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shunyuandeng/git/LC_Practice/LeetcodeAlgo.csproj",
+      "projectUniqueName": "/Users/oliver/git/leetcode-algo/LeetcodeAlgo/LeetcodeAlgo.csproj",
       "projectName": "LeetcodeAlgo",
-      "projectPath": "/Users/shunyuandeng/git/LC_Practice/LeetcodeAlgo.csproj",
-      "packagesPath": "/Users/shunyuandeng/.nuget/packages/",
-      "outputPath": "/Users/shunyuandeng/git/LC_Practice/obj/",
+      "projectPath": "/Users/oliver/git/leetcode-algo/LeetcodeAlgo/LeetcodeAlgo.csproj",
+      "packagesPath": "/Users/oliver/.nuget/packages/",
+      "outputPath": "/Users/oliver/git/leetcode-algo/LeetcodeAlgo/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/shunyuandeng/.nuget/NuGet/NuGet.Config"
+        "/Users/oliver/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/shunyuandeng/.dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

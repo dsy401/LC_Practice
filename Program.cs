@@ -1,8 +1,8 @@
 ﻿using LeetcodeAlgo;
 
-var a = new LC108();
+var a = new LC264();
 
-var c = a.SortedArrayToBST(new int[] {-10,-3,0,5,9});
+var ad = a.NthUglyNumber(1407);
 
 
 var d = 0;
