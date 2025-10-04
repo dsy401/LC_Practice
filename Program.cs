@@ -1,8 +1,8 @@
 ﻿using LeetcodeAlgo;
 
-var a = new LC1726();
+var a = new LC26();
 
-var c = a.TupleSameProduct(new int[] {2,3,4,6,8,12});
+var c = a.RemoveDuplicates(new int[] {0,0,1,1,1,2,2,3,3,4});
 
     var d = 0;
 
