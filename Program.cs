@@ -1,9 +1,8 @@
 ﻿using LeetcodeAlgo;
 
-var a = new LC264();
+var a = new LC1726();
 
-var ad = a.NthUglyNumber(1407);
+var c = a.TupleSameProduct(new int[] {2,3,4,6,8,12});
 
-
-var d = 0;
+    var d = 0;
 
